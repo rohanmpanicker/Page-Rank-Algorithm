@@ -29,6 +29,8 @@ error rate that determines how many iterations will run. Your code should comput
 rank values (intermediate and final). A sample of the output for the case of N >10 is shown (output truncated
 to first 4 lines of it).
 
+OUTPUTS:
+
 % ./pgrk0880 15 -1 samplegraph.txt
 Base : 0 :P[ 0]=0.2500000 P[ 1]=0.2500000 P[ 2]=0.2500000 P[ 3]=0.2500000
 Iter : 1 :P[ 0]=0.2500000 P[ 1]=0.2500000 P[ 2]=0.1437500 P[ 3]=0.1437500
